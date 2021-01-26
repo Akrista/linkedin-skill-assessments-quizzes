@@ -1,10 +1,10 @@
 ## Google Cloud Platform (GCP)
 
 #### Q1. You want to schedule a cron job to send a message to a Cloud Pub/Sub topic hourly. What do you do?
-- [ ] Create a Cloud Function with a targer of HTTP
-- [ ] Create a Cloud Scheduler job with a targer of HTTP
-- [x] Create a Cloud Function with a targer of Cloud Pub/Sub
-- [ ] Create a Cloud Scheduler job with a targer of Cloud Pub/Sub
+- [ ] Create a Cloud Function with a target of HTTP
+- [ ] Create a Cloud Scheduler job with a target of HTTP
+- [x] Create a Cloud Function with a target of Cloud Pub/Sub
+- [ ] Create a Cloud Scheduler job with a target of Cloud Pub/Sub
 
 #### Q2. You want to set up a managed Apache Spark cluster. Which service do you configure?
 - [ ] Cloud Dataprep
